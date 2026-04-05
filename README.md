@@ -1,5 +1,14 @@
 # 🎬 Movie App
 
+# Images for this project
+
+<img width="1440" height="900" alt="Screenshot 2026-04-05 at 17 31 22" src="https://github.com/user-attachments/assets/93692690-6427-4ff2-ad68-577b716103af" />
+<img width="1440" height="900" alt="Screenshot 2026-04-05 at 17 30 52" src="https://github.com/user-attachments/assets/1a0fb78b-4d4f-4d6d-b696-b587486c2662" />
+<img width="1440" height="900" alt="Screenshot 2026-04-05 at 17 30 39" src="https://github.com/user-attachments/assets/387bd7f8-2e37-4501-a4e1-7ddc4ff78bad" />
+<img width="1440" height="900" alt="Screenshot 2026-04-05 at 17 30 33" src="https://github.com/user-attachments/assets/51f30582-cfa3-4022-92f7-bd90ce7ac969" />
+
+
+
 A React application for discovering and saving your favorite movies, powered by the TMDB API.
 
 ## Features
